@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="flashcard" id="flashcard">
+        <div class="front" id="front">Question</div>
+        <div class="back" id="back">Answer</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
